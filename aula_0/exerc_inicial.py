@@ -1,0 +1,8 @@
+print('===== DESAFIO THIAGO =====')
+print(' Olá, já sei que você se chama Thiago, agora quero saber mais sobre você!')
+signo = input('Qual Seu Signo? ')
+idade = input('Quantos anos você tem? ')
+cidade = input('Qual Cidade que você mora? ')
+profissao = input('Qual sua profissão? ')
+filho = input('Você tem filhos? ')
+print('Foi muito legal conhecer um pouco mais sobre você! jamais diria que você tem',idade,'anos, e mais legal ainda saber que você é',profissao, 'vou ficando por aqui, até a proxima!')
